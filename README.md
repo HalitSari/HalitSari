@@ -39,11 +39,6 @@
 
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalitSari&show_icons=true&theme=dark&hide_border=true&locale=tr" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalitSari&layout=compact&theme=dark&hide_border=true&locale=tr" height="180" alt="languages" />
-</div>
-
 <br/>
 
 <div align="center">
